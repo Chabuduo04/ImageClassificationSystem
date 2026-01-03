@@ -1,0 +1,5 @@
+Python >= 3.8
+torch >= 1.10
+torchvision
+numpy
+tqdm
